@@ -1,2 +1,2 @@
 # classcode
-hello hello hello
+hello hello
